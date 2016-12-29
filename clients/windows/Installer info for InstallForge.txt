@@ -1,0 +1,11 @@
+tibiafordow-7.7.2-windows-32bits.exe
+=====================================
+Tibia Player for DoW
+7.72
+Deconstruction on War (DoW)
+http://deconstructiononwar.com
+=====================================
+DoW client
+0.6.6
+Deconstruction on War (DoW)
+http://deconstructiononwar.com
